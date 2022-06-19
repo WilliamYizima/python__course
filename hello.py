@@ -12,4 +12,3 @@
 # O programa está iniciando agora
 
 print('will'.upper())
-
